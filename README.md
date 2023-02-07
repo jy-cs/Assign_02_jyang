@@ -11,6 +11,6 @@ This is the A2 project of COMP-8730 W2023 at the University of Windsor. The proj
 
 ## Setup
     * !python --version
-    *!pip install "pytrec-eval-terrier"
-    *!pip install --user -U nltk
+    * !pip install "pytrec-eval-terrier"
+    * !pip install --user -U nltk
 
